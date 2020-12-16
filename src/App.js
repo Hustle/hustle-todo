@@ -4,9 +4,10 @@ const TODOS = [
   'Render todo list',
   'Make todos checkable',
   'Enable adding new todos',
-  'Filter todos',
-  'Persist todos between refresh',
+  'Enable deleting todos',
+  'Add search todos feature',
   'Add priority to todos',
+  'Persist todos between refresh',
 ];
 
 function App() {
